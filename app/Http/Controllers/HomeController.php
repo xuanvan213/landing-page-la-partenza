@@ -97,7 +97,7 @@ class HomeController extends Controller
         $data = ['email'=>$request->email, 'name'=>$request->name, 'content'=>$request->content];
 
         Mail::send('emails.mail-contact', $data, function ($message) {
-            $message->to('info.ftcjsc@gmail.com');
+            $message->to('Thuydungkhl08@gmail.com');
             $message->subject("Mail Contact Project BDS La Partenza");
             $message->from('info.ftcjsc@gmail.com', 'FTCJSC');
         });
