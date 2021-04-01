@@ -12,3 +12,7 @@
 */
 
 Route::get('/', 'HomeController@index');
+
+//send mail contact
+Route::get('/contact', 'HomeController@getcontact');
+Route::post('/contact', 'HomeController@sendEmailContacts');

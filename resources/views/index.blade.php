@@ -31,7 +31,6 @@
                 data-splitout="none" 
                 data-responsive_offset="on" 
                 data-elementdelay="0.05" style="font-weight:600;">
-                  <a href="https://anzbds.com/du-an/" class="link-arrow"> Xem chi tiết <i class="icon ion-ios-arrow-thin-right"></i>
                 </a>
               </div>
             </li>
@@ -61,7 +60,6 @@
                 data-splitout="none" 
                 data-responsive_offset="on" 
                 data-elementdelay="0.05" style="font-weight:600;">
-                  <a href="https://anzbds.com/du-an/" class="link-arrow">Xem chi tiết <i class="icon ion-ios-arrow-thin-right"></i>
                 </a>
               </div>
             </li>
@@ -91,7 +89,6 @@
                 data-splitout="none" 
                 data-responsive_offset="on" 
                 data-elementdelay="0.05" style="font-weight:600; ">
-                  <a href="https://anzbds.com/du-an/" class="link-arrow">Xem chi tiết <i class="icon ion-ios-arrow-thin-right"></i>
                 </a>
               </div>
             </li>
@@ -121,7 +118,6 @@
                 data-splitout="none" 
                 data-responsive_offset="on" 
                 data-elementdelay="0.05" style="font-weight:600; ">
-                  <a href="https://anzbds.com/du-an/" class="link-arrow">Xem chi tiết <i class="icon ion-ios-arrow-thin-right"></i>
                 </a>
               </div>
               </li>
@@ -152,8 +148,6 @@
                   data-splitout="none" 
                   data-responsive_offset="on" 
                   data-elementdelay="0.05" style="font-weight:600; ">
-                    <a href="https://anzbds.com/du-an/" class="link-arrow">Xem chi tiết <i class="icon ion-ios-arrow-thin-right"></i>
-                  </a>
                 </div>
               </li>
             <!-- end slide 5 -->
@@ -188,7 +182,7 @@
                 <div class="product-selling">
                   sắp mở bán
                 </div>
-                <a href="https://anzbds.com/du-an/">
+                <a href="#">
                   <img alt="hình ảnh dự án BDS La Partenza" class="about-img img-responsive" src="/images/backgroundlapartenza.jpg">
                 </a>
                 <div class="dots"></div>
@@ -248,7 +242,8 @@
         </div>
         <div id="tien_ich1" class="container zoom-anim-dialog mfp-hide">
           <div class="row">
-            <div class="col-lg-12"><img alt="hình ảnh dự án BDS La Partenza" class="project-detail-img" src="/images/tien-ich-tre-em.jpg"></div>
+            <div class="col-lg-12">
+            <img alt="hình ảnh dự án BDS La Partenza" class="project-detail-img" src="/images/tien-ich-tre-em.jpg"></div>
           </div>
         </div>
         <div id="tien_ich2" class="container zoom-anim-dialog mfp-hide">
@@ -653,7 +648,7 @@
                 <div class="col-team col-xs-6 col-md-4 wow fadeIn">
                   <div class="team-profile">
                     <a href="#tien-do4" class="project-item item-shadow popup-with-zoom-anim">
-                    <video width="320" height="320" controls >
+                    <video width="100%" height="100%" controls >
                       <source src="/images/tiendo4.mp4" type="video/mp4">
                     </video>
                     </a>
@@ -662,7 +657,7 @@
                 <div class="col-team col-xs-6 col-md-4 wow fadeIn" data-wow-delay="0.3s">
                   <div class="team-profile">
                     <a href="#tien-do5" class="project-item item-shadow popup-with-zoom-anim">
-                    <video width="320" height="320" controls>
+                    <video width="100%" height="100%" controls>
                       <source src="/images/tiendo5.mp4" type="video/mp4">
                     </video>
                   </a>
@@ -674,34 +669,54 @@
         </div>
         <div id="tien-do1" class="container zoom-anim-dialog mfp-hide">
           <div class="row">
-            <div class="col-lg-12"><img alt="hình ảnh dự án BDS La Partenza" class="project-detail-img" src="/images/tiendo1.jpg"></div>
+            <div class="col-lg-8">
+              <img alt="hình ảnh dự án BDS La Partenza" class="project-detail-img" src="/images/tiendo1.jpg">
+            </div>
+            <div class="col-lg-4">
+              <h3>Hình ảnh tiến độ thi công</h3>
+            </div>
           </div>
         </div>
         <div id="tien-do2" class="container zoom-anim-dialog mfp-hide">
           <div class="row">
-            <div class="col-lg-12"><img alt="hình ảnh dự án BDS La Partenza" class="project-detail-img" src="/images/tiendo2.jpg"></div>
+            <div class="col-lg-8"><img alt="hình ảnh dự án BDS La Partenza" class="project-detail-img" src="/images/tiendo2.jpg"></div>
+            <div class="col-lg-4">
+              <h3>Hình ảnh tiến độ thi công</h3>
+            </div>
           </div>
         </div>
         <div id="tien-do3" class="container zoom-anim-dialog mfp-hide">
           <div class="row">
-            <div class="col-lg-12"><img alt="hình ảnh dự án BDS La Partenza" class="project-detail-img" src="/images/tiendo3.jpg"></div>
+            <div class="col-lg-8">
+              <img alt="hình ảnh dự án BDS La Partenza" class="project-detail-img" src="/images/tiendo3.jpg">
+            </div>
+            <div class="col-lg-4">
+              <h3>Hình ảnh tiến độ thi công</h3>
+            </div>
           </div>
         </div>
         <div id="tien-do4" class="container zoom-anim-dialog mfp-hide">
           <div class="row">
-            <div class="col-lg-12">
-            <video width="30%" height="30%" controls>
-              <source src="/images/tiendo4.mp4" type="video/mp4">
-            </video>
+            <div class="col-lg-8">
+              <video width="80%" height="80%" controls>
+                <source src="/images/tiendo4.mp4" type="video/mp4">
+              </video>
+            </div>
+            <div class="col-lg-4">
+              <h3>Video tiến độ thi công</h3>
             </div>
           </div>
         </div>
+
         <div id="tien-do5" class="container zoom-anim-dialog mfp-hide">
           <div class="row">
-            <div class="col-lg-12">
-              <video width="30%" height="30%" controls>
+            <div class="col-lg-8">
+              <video width="80%" height="80%" controls>
                 <source src="/images/tiendo5.mp4" type="video/mp4">
               </video>
+            </div>
+            <div class="col-lg-4">
+              <h3>Video tiến độ thi công</h3>
             </div>
           </div>
         </div>
@@ -729,23 +744,12 @@
                   <div class="row-contact row">
                     <div class="col-contact col-lg-6">
                       <h3 class="contact-title contact-top">Tp. Hồ Chí Minh,  Việt Nam</h3>
-                      <p class="contact-address text-black"><strong>41 đường 20, Phường Hiệp Bình Chánh, Quận Thủ Đức, Tp. Hồ Chí Minh, Việt Nam</strong></p>
-                      <p class="contact-row"><strong class="text-dark">Email: info@anzbds.com</strong></p>
+                      <p class="contact-address text-black"><strong>970 Nguyễn Văn Linh Phường Tân Phong Quận 7, Tp. Hồ Chí Minh, Việt Nam</strong></p>
+                      <p class="contact-row"><strong class="text-dark">Email: Thuydungkhl08@gmail.com</strong></p>
                     </div>
                     <div class="col-contact col-lg-6">
                       <h3 class="contact-title contact-top">HOT LINE:</h3>
-                      <p class="phone-lg text-dark">0917 99 86 88</p>
-                      <h3 class="contact-title contact-top">TẢI NGAY ỨNG DỤNG</h3>
-                      <div class="row">
-                        <div class="col-md-6">
-                        <img alt="hình ảnh dự án BDS La Partenza" src="images/android.jpg">
-                        <img alt="hình ảnh dự án BDS La Partenza" class="logo-down" src="images/logo-ggplay.png">
-                        </div>
-                        <div class="col-md-6">
-                        <img alt="hình ảnh dự án BDS La Partenza" src="images/android.jpg">
-                        <img alt="hình ảnh dự án BDS La Partenza" class="logo-down" src="images/logo-app-store.png">
-                        </div>
-                      </div>
+                      <p class="phone-lg text-dark">0902 752 087</p>                      
                     </div>
                   </div>
                 </div>

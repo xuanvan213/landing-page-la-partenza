@@ -882,9 +882,7 @@ a.brand:focus{
 }
 
 .menu-footer{
-  position: absolute;
-  left: 15%;
-  bottom: 4rem;
+  list-style: none;
 }
 
 .menu-footer .social-list{
@@ -898,18 +896,17 @@ a.brand:focus{
   transition: all 0.5s 0.7s ease;
 }
 
-.menu-footer .social-list a{
-  color: #b1b1b1;
+.menu-footer li a{
+  color: #000000;
   margin:0;
   margin-right:2.7rem;
 }
 
-.menu-footer .social-list a:last-child{
-  margin-right: 0;
-}
 
-.menu-footer .social-list a:hover{
-  color:#cee002;
+.menu-footer li a:hover{
+  text-decoration: none;
+  color: #818c0a;
+  animation: border-li .5s ease-in-out both;
 }
 
 .menu-footer .copy{

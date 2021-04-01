@@ -307,7 +307,48 @@
     </div>
 
     <!-- Footer -->
-    <footer id="footer" class="footer section"> 
+    <footer class="py-4">
+      <div class="container text-center">
+        <div class="row">
+          <div class="col-md-5 col-lg-5">
+            <a  href="anzbds.com">
+              <img alt="hình ảnh dự án Gem Sky Work Long Thành" src="images/lapartenzalogo.png">
+              <div class="brand-info">
+                <div class="brand-name text-dark">La Partenza</div>
+                <div class="brand-text">Sài Gòn</div>
+              </div>
+            </a>
+          </div>
+          <div class="col-md-7">
+            <ul class="menu-list right-boxed menu-footer">
+              <li>
+                <a  href="#du-an-La-Partenza">Trang Chủ</a>
+              </li>
+              <li>
+                <a href="#gioi-thieu-du-an-La-Partenza">Giới Thiệu</a>
+              </li>
+              <li>
+                <a href="#tien-ich-du-an-La-Partenza">Tiện Ích</a>
+              </li>
+              <li>
+                <a href="#thu-vien-du-an-La-Partenza">Thư Viện</a>
+              </li>
+              <li>
+                <a href="#can-ho-mau-du-an-La-Partenza">Căn Hộ Mẫu</a>
+              </li>
+              <li>
+                <a href="#tien-do-du-an-La-Partenza">Tiến Độ</a>
+              </li>
+              <li>
+                <a href="#lien-he-du-an-La-Partenza">Liên Hệ</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+        <a href="#" class="text-muted">2021 &copy; anzbds - All Rights Reserved</a>
+      </div>
+    </footer>
+    <!-- <footer id="footer" class="footer section"> 
       <div class="footer-flex">
         <div class="flex-item">
           <a class="brand pull-left" href="anzbds.com">
@@ -324,7 +365,7 @@
           </a>
         </div>
       </div>
-    </footer>
+    </footer> -->
   </div>
 
   <!-- jQuery -->
